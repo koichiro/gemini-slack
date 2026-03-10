@@ -42,7 +42,7 @@ A Ruby-based CLI tool that bridges Google Cloud Vertex AI (Gemini) and Slack. It
 
 Start the interactive CLI:
 ```bash
-ruby main.rb
+./bin/gemini-slack
 ```
 
 Type your prompt and press Enter. The conversation will be mirrored to your specified Slack channel in a threaded format. Type `exit` or `quit` to end the session.
