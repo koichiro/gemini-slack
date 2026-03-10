@@ -1,6 +1,6 @@
 # Gemini Slack Notifier
 
-[![Ruby Tests](https://github.com/yourusername/gemini-slack/actions/workflows/test.yml/badge.svg)](https://github.com/yourusername/gemini-slack/actions/workflows/test.yml)
+[![Ruby Tests](https://github.com/koichiro/gemini-slack/actions/workflows/test.yml/badge.svg)](https://github.com/koichiro/gemini-slack/actions/workflows/test.yml)
 [![Ruby Version](https://img.shields.io/badge/ruby-3.0%2B-red.svg)](https://www.ruby-lang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
