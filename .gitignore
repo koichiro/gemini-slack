@@ -1,0 +1,15 @@
+# Dependency directories
+/vendor/bundle
+/vendor/gems
+.bundle/
+
+# Environment variables
+.env
+
+# Test coverage
+/coverage/
+
+# Temporary files
+*.swp
+*~
+.DS_Store
